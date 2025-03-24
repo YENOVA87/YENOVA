@@ -36,7 +36,7 @@ const Footer = () => {
 
           <div className="text-center text-gray-400">
             <p className="flex items-center justify-center gap-2 mb-4">
-              Made with <Heart className="w-4 h-4 text-red-500" /> by YENOVA Gaming
+              Made with <Heart className="w-4 h-4 text-red-500" /> by Prathamesh and YENOVA GAMING
             </p>
             <p>© {currentYear} YENOVA Gaming. All rights reserved.</p>
           </div>
