@@ -10,9 +10,9 @@ const Stream = () => {
   });
 
   const nextStream = {
-    date: "March 15, 2024",
-    time: "8:00 PM EST",
-    game: "Cyberpunk 2077",
+    date: "August 3, 2025",
+    time: "6:00 PM IST",
+    game: "Euro Truck Simulator 2",
     event: "Special Community Event"
   };
 
